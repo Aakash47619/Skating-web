@@ -150,7 +150,7 @@ h1, h2, h3, h4, h5, h6 {
 .hero {
     height: 100vh;
     background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-                url('/Users/aakashray/Desktop/RamgramSkatingPark/public/images/skating video.mp4') center/cover;
+                url('https://videos.pexels.com/video-files/4858900/4858900-uhd_2732_1440_25fps.mp4') center/cover;
     display: flex;
     align-items: center;
     justify-content: center;
